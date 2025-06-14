@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "demo\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\PhatTrienUngDung\\demo\\demo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "demo\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-13T01:45:26.909Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "demo\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA3wB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T01:41:24.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T01:41:24.424Z"
             }
           ]
         }
