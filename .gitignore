@@ -1,0 +1,10 @@
+# Bỏ qua các file hệ thống của Visual Studio
+.vs/
+*.user
+*.suo
+*.vsp
+*.vsidx
+
+# Bỏ qua thư mục build
+bin/
+obj/
